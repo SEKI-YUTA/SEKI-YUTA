@@ -1,4 +1,4 @@
-## プロフィール
+# プロフィール
 
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SEKI-YUTA&left_color=gray&right_color=blue) -->
 
@@ -58,3 +58,29 @@ Here are some ideas to get you started:
 -->
 
 # English version
+
+
+# Profile
+
+I mainly develop mobile applications as personal projects, with a focus on native Android development. Coming from a background in web development, I also dabble a bit in web technologies.
+
+It's unfortunate that I can't publish some of the apps I've made, especially the ones related to my love for ZARD, due to potential copyright issues. 😭
+
+## Timeline
+| Year | Experience | Note |
+| :--:| :--: | :--: |
+| 2020 | Started programming seriously due to high school being closed because of COVID-19 | |
+| 2021 | Entered university | |
+| 2022 | Started part-time job at a web company | |
+| 2023 | Joined a certain IT company as an intern, working as an Android native engineer | |
+| ---- | ---- | ---- |
+| 2025 | Scheduled graduation from university | |
+
+## Projects
+| Project Name | Platform | Description | Work in Progress |
+| :--: | :--: | :--: | :--: |
+| [Cocktail Master](https://github.com/SEKI-YUTA/CocktailMaster_JetpackCompose) | Android | An app suggesting cocktails that can be made from available ingredients | yes |
+| ZARD App | Android | An app containing information about ZARD, my personal favorite, although sadly not publishable | yes |
+| [乗り過ごし防止アプリ (PreventRidePass)](https://github.com/SEKI-YUTA/Flutter_PreventRidePass2) | iOS/Android | An app aimed at preventing missing train stops. However, due to struggling to provide location search for free, the search accuracy is low, making it difficult to use practically. | no |
+| [足立キャプチャ (AdachiCapture)](https://github.com/SEKI-YUTA/Flutter_AdachiCapture) | Android | Award-winning project at ytv Hackathon 2022. An app that allows easy retrieval of information about TV show performers by taking their photos. | no |
+| [CandiesMatching](https://github.com/Tomo-osw/Candies_matching) | Web | Winner of the MediaDoTechInternship2023. A prototype of a platform matching advertisers with authors, aiming to integrate advertisements into content. | no |
