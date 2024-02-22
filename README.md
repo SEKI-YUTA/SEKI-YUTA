@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 
 <h2 id="EnglishVersion">English Version</h2>
+
 # Profile
 
 I mainly develop mobile applications as personal projects, with a focus on native Android development. Coming from a background in web development, I also dabble a bit in web technologies.
