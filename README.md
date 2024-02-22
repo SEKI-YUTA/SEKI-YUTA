@@ -1,3 +1,5 @@
+[英語版](#EnglishVersion)
+
 # プロフィール
 
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SEKI-YUTA&left_color=gray&right_color=blue) -->
@@ -57,9 +59,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# English version
 
-
+<h2 id="EnglishVersion">English Version</h2>
 # Profile
 
 I mainly develop mobile applications as personal projects, with a focus on native Android development. Coming from a background in web development, I also dabble a bit in web technologies.
