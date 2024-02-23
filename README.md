@@ -1,4 +1,4 @@
-[英語版](#EnglishVersion)
+[English version is available!!](#EnglishVersion)
 
 # プロフィール
 
