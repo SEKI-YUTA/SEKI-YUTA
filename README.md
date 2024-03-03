@@ -26,7 +26,7 @@ ZARDが好きでアプリを作ってみたが、著作権とか引っかかり�
 | 2020 | コロナの影響で高校が休みになり暇すぎてプログラミング学習を本格的に開始 | |
 | 2021 | 大学入学 | |
 | 2022 | Web系の企業でアルバイトを開始 | |
-| 2023 | インターンで某IT企業にAndroidネイティブエンジニアとして参加 | |
+| 2023 | 某IT企業の就業型インターンにAndroidネイティブエンジニアとして参加 | |
 | ---- | ---- | ---- |
 | 2025 | 大学卒業予定 | |
 
@@ -74,7 +74,7 @@ It's unfortunate that I can't publish some of the apps I've made, especially the
 | 2020 | Started programming seriously due to high school being closed because of COVID-19 | |
 | 2021 | Entered university | |
 | 2022 | Started part-time job at a web company | |
-| 2023 | Joined a certain IT company as an intern, working as an Android native engineer | |
+| 2023 | Participating as an Android native engineer in an employment-based internship at a certain IT company. | |
 | ---- | ---- | ---- |
 | 2025 | Scheduled graduation from university | |
 
