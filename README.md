@@ -40,6 +40,14 @@ ZARDが好きでアプリを作ってみたが、著作権とか引っかかり�
 | [CandiesMatching](https://github.com/Tomo-osw/Candies_matching) | Web | MediaDoTechInternship2023最終優秀賞受賞。電子書籍の広告をコンテンツの一部にすることを目指した。広告主と作者のマッチングプラットフォームのプロトタイプ | no |
 
 
+## ハッカソンでの受賞歴
+| 受賞歴                       | 日付               | 参考URL               |
+|------------------------------|--------------------|-------------------|
+| 【技育CAMP2024】ハッカソン Vol.3（最優秀賞） | 2024年4月          | [リンク](https://talent.supporterz.jp/events/ed86113e-5d01-4ab6-bd5a-6656aba16750/)       |
+| 関西ビギナーズハッカソン（Progate賞）         | 2024年3月          | [リンク](https://kansai-hackathon.com/)       |
+| MediaDoTechInternship2023（最優秀賞）          | 2023年9月          | [リンク](https://techdo.mediado.jp/entry/2023/04/17/070000)       |
+| ytvハッカソン2022（優秀賞）                    | 2022年             | [リンク](https://www.ytv.co.jp/hackathon2022/)       |
+
 
 
 
@@ -64,25 +72,33 @@ Here are some ideas to get you started:
 
 # Profile
 
-I mainly develop mobile applications as personal projects, with a focus on native Android development. Coming from a background in web development, I also dabble a bit in web technologies.
+I mainly develop mobile apps for personal projects. I develop most often with Android native. Since I originally started programming with web development, I also have some experience with web development.
 
-It's unfortunate that I can't publish some of the apps I've made, especially the ones related to my love for ZARD, due to potential copyright issues. 😭
+I love ZARD and tried to create an app, but it’s sad that I can’t release it due to copyright issues 😭
 
-## Timeline
-| Year | Experience | Note |
-| :--:| :--: | :--: |
-| 2020 | Started programming seriously due to high school being closed because of COVID-19 | |
+| Year | Experience | Notes |
+| :--: | :--: | :--: |
+| 2020 | Started learning programming seriously due to having too much free time as high school was closed because of COVID-19 | |
 | 2021 | Entered university | |
-| 2022 | Started part-time job at a web company | |
-| 2023 | Participating as an Android native engineer in an employment-based internship at a certain IT company. | |
+| 2022 | Started working part-time at a web development company | |
+| 2023 | Participated in an internship at a certain IT company as an Android native engineer | |
 | ---- | ---- | ---- |
-| 2025 | Scheduled graduation from university | |
+| 2025 | Expected to graduate from university | |
 
-## Projects
-| Project Name | Platform | Description | Work in Progress |
+## Project Examples
+| Project Name | Platform | Description | In Progress |
 | :--: | :--: | :--: | :--: |
-| [Cocktail Master](https://github.com/SEKI-YUTA/CocktailMaster_JetpackCompose) | Android | An app suggesting cocktails that can be made from available ingredients | yes |
-| ZARD App | Android | An app containing information about ZARD, my personal favorite, although sadly not publishable | yes |
-| [乗り過ごし防止アプリ (PreventRidePass)](https://github.com/SEKI-YUTA/Flutter_PreventRidePass2) | iOS/Android | An app aimed at preventing missing train stops. However, due to struggling to provide location search for free, the search accuracy is low, making it difficult to use practically. | no |
-| [足立キャプチャ (AdachiCapture)](https://github.com/SEKI-YUTA/Flutter_AdachiCapture) | Android | Award-winning project at ytv Hackathon 2022. An app that allows easy retrieval of information about TV show performers by taking their photos. | no |
-| [CandiesMatching](https://github.com/Tomo-osw/Candies_matching) | Web | Winner of the MediaDoTechInternship2023. A prototype of a platform matching advertisers with authors, aiming to integrate advertisements into content. | no |
+| [Cocktail Master](https://github.com/SEKI-YUTA/CocktailMaster_JetpackCompose) | Android | An app that suggests cocktails that can be made from available ingredients | yes |
+| ZARD App | Android | An app containing information about ZARD. My personal favorite | yes |
+| [Prevent Ride Pass App](https://github.com/SEKI-YUTA/Flutter_PreventRidePass2) | iOS/Android | An app aimed at preventing missed train stops. However, since I struggled to provide free location search, the search accuracy is low, making it difficult to use in practice. | no |
+| [Adachi Capture](https://github.com/SEKI-YUTA/Flutter_AdachiCapture) | Android | An award-winning app at ytv Hackathon 2022. Allows easy retrieval of information about TV performers by taking their photos. | no |
+| [Candies Matching](https://github.com/Tomo-osw/Candies_matching) | Web | Winner of the MediaDoTechInternship2023 grand prize. A prototype platform aiming to integrate e-book advertisements into content. A matching platform for advertisers and authors. | no |
+
+## Hackathon Awards
+| Award                         | Date               | Reference URL          |
+|-------------------------------|--------------------|------------------------|
+| [Geek CAMP 2024 Hackathon Vol.3 (Grand Prize)](https://talent.supporterz.jp/events/ed86113e-5d01-4ab6-bd5a-6656aba16750/) | April 2024          | [Link](https://talent.supporterz.jp/events/ed86113e-5d01-4ab6-bd5a-6656aba16750/) |
+| [Kansai Beginners Hackathon (Progate Prize)](https://kansai-hackathon.com/)         | March 2024          | [Link](https://kansai-hackathon.com/) |
+| [MediaDoTechInternship2023 (Grand Prize)](https://techdo.mediado.jp/entry/2023/04/17/070000)          | September 2023      | [Link](https://techdo.mediado.jp/entry/2023/04/17/070000) |
+| [ytv Hackathon 2022 (Excellence Award)](https://www.ytv.co.jp/hackathon2022/)                    | 2022                | [Link](https://www.ytv.co.jp/hackathon2022/) |
+
